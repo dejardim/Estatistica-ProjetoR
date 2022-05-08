@@ -1,7 +1,5 @@
 # ***Projeto: Atividade em R***
 
----
-
 *Alunos:*
 - Matheus Silva
 - Roseane Oliveira
